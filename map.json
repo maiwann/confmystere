@@ -67,7 +67,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"file",
-                 "value":"http:\/\/coffre.maiwann.net\/confmystere\/musique.mp3"
+                 "value":"musique.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
