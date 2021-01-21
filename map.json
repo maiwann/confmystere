@@ -66,7 +66,7 @@
          "properties":[
                 {
                  "name":"playAudioLoop",
-                 "type":"string",
+                 "type":"file",
                  "value":"https:\/\/raw.githubusercontent.com\/maiwann\/confmystere\/master\/musique.mp3"
                 }],
          "type":"tilelayer",
